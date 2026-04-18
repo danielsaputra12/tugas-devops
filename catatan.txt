@@ -1,1 +1,3 @@
 "Belajar Git" 
+"Dev0ps menggunakan git untuk CI/CD" 
+"Git sangat berguna untuk kolaborasi" 
